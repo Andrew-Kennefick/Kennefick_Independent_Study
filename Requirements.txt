@@ -1,5 +1,0 @@
-numpy
-pandas
-datetime
-matplotlib.pyplot
-holoviews
