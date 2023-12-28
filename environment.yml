@@ -1,0 +1,9 @@
+name: COVID_Dashboard
+channels:
+  - conda-forge
+dependencies:
+- python > 3.11
+- openpyxl 
+- pandas
+- numpy
+- holoviews
